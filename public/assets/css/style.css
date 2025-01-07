@@ -203,7 +203,7 @@ span {
 }
 
 .home-content_2 {
-    margin-top: 0rem;
+    margin-top: 3rem;
 
 }
 
@@ -467,6 +467,7 @@ span {
 }
 
 .supervisao {
+    
     margin-top: 6rem;
     border-radius: 10px;
     background-color: #ffff;
@@ -1205,7 +1206,7 @@ footer .copyright {
     }
 
     .caminho {
-        margin-top: 6rem;
+        margin-top: -15rem;
         margin-left: 16rem;
     }
 
@@ -1530,10 +1531,14 @@ footer .copyright {
 
     .barra {
         padding-left: 2rem;
+        font-size: 1.2rem;
+        
     }
 
     .barra2 {
         padding-left: 2rem;
+        width: 43.5rem;
+        font-size: 1.2rem;
     }
 
     .barra3 {
@@ -1553,6 +1558,9 @@ footer .copyright {
 }
 
 @media (max-width:995px) {
+    .supervisao{
+        width: 43rem;
+    }
     .text_color5 {
         font-size: 2.0rem;
         width: 37rem;
@@ -1629,7 +1637,9 @@ footer .copyright {
         display: flex;
     }
 
-    .footer1 {}
+    .footer1 {
+        margin-top: -15rem;
+    }
 
     .content_span {
         margin-top: 0rem;
@@ -1638,14 +1648,14 @@ footer .copyright {
     }
 
     .balao {
-        margin-left: 8rem;
+        margin-left: 10rem;
         margin-top: 1rem;
         width: 60vw;
     }
 
     .img3 {
         top: 91rem;
-        left: 12rem;
+        left: 16rem;
         position: relative;
 
     }
@@ -1679,12 +1689,12 @@ footer .copyright {
         font-weight: 400;
         text-align: center;
         width: 37rem;
-        margin-left: 3rem;
+        margin-left: 6rem;
     }
 
     .phink {
         margin-top: 10rem;
-        margin-left: 4rem;
+        margin-left: 10rem;
     }
 
     .texto7 {
@@ -1693,7 +1703,7 @@ footer .copyright {
         font-size: 2.5rem;
         font-weight: 400;
         text-align: center;
-        margin-left: 3rem;
+        margin-left: 4rem;
         font-size: 2rem;
         width: 35rem;
 
@@ -1711,7 +1721,7 @@ footer .copyright {
         color: #177A28;
         display: flex;
         margin-top: 0rem;
-        font-size: 6rem;
+        font-size: 4rem;
         font-weight: 600;
     }
 
@@ -1724,11 +1734,7 @@ footer .copyright {
     }
 
     .barra {
-        width: 47rem;
-    }
-
-    .barra span {
-        font-size: 1.5rem;
+        width: 43.5rem;
     }
 
     .texto3 {
@@ -1873,8 +1879,8 @@ footer .copyright {
         margin-left: 1rem;
     }
     .phink {
-        margin-top: 6rem;
-        margin-left: 7rem;
+        margin-top: 8rem;
+        margin-left: 11rem;
     }
 
     .texto3 {
@@ -1933,7 +1939,8 @@ footer .copyright {
         font-size: 1.6rem;
         font-weight: 700;
         color: #FFFFFF;
-        width: 28rem;
+        width: 35rem;
+
         text-align: center;
         margin-left: 5rem;
         display: flex
@@ -1951,7 +1958,7 @@ footer .copyright {
         font-weight: 400;
         text-align: center;
         width: 33rem;
-        margin-left: 2rem;
+        margin-left: 3rem;
         margin-top: 17rem;
     }
     .text_color5 {
@@ -1988,7 +1995,7 @@ footer .copyright {
 
 }
 
-@media(max-height:667px){
+@media(max-height:720px){
     .text_p {
         margin-top: 39rem;
     }
@@ -2010,5 +2017,69 @@ footer .copyright {
         width: 33rem;
         margin-left: 2rem;
         margin-top: 21rem;
+    }
+    .text_2{
+        margin-top: 2rem;
+    }
+    .text_3{
+        margin-top: 2rem;
+    }
+    .texto {
+        font-family: "Playfair Display", serif;
+        font-size: 1.8rem;
+        font-weight: 400;
+        text-align: center;
+        width: 34rem;
+        margin-left: 6rem;
+    }
+    .balao {
+        margin-left: 11rem;
+        margin-top: 1rem;
+        width: 60vw;
+    }
+    .img3 {
+        top: 81rem;
+        left: 17rem;
+        position: relative;
+    }
+    .texto7 {
+        font-family: "Playfair Display", serif;
+        font-size: 2.5rem;
+        font-weight: 400;
+        text-align: center;
+        margin-left: 5rem;
+        font-size: 2rem;
+        width: 35rem;
+    }
+    .text_desenvolver {
+
+            font-size: 2.6rem;
+            font-weight: 700;
+            text-align: center;
+            display: flex
+    ;
+            margin-top: -17rem;
+            margin-bottom: 1rem;
+            width: 38rem;
+            margin-left: 3rem;
+        
+    }
+    .terapia {
+        color: #177A28;
+        font-size: 2rem;
+        width: 39rem;
+        margin-left: 3rem;
+    }
+    .caminho {
+        margin-top: -8rem;
+    }
+    .barra {
+        width: 42.5rem;
+    }
+    .barra2{
+        width: 42.5rem;
+    }
+    .supervisao {
+        width: 42rem;
     }
 }
