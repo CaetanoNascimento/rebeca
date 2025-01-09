@@ -2020,7 +2020,7 @@ footer .copyright {
 
 }
 
-@media(max-height:720px) {
+@media(max-height:720px)and (max-width:960px) {
     .text_p {
         margin-top: 39rem;
     }
@@ -2185,5 +2185,16 @@ footer .copyright {
 
     .supervisao {
         width: 42rem;
+    }
+}
+
+@media(max-height:720px)and (max-width:1366px) {
+    .navbar a {
+        font-size: 1.8rem;
+        color: #0D2F3F;
+        font-weight: 400;
+        transition: 0.3s ease;
+        border-bottom: 3px solid transparent;
+        margin-left: 2.8rem;
     }
 }
