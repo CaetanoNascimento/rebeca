@@ -153,7 +153,6 @@ span {
 .home-img {
     border-radius: 50%;
     cursor: pointer;
-    transform: scale(1.15);
 }
 
 .home-img img {
@@ -1558,6 +1557,9 @@ footer .copyright {
 }
 
 @media (max-width:995px) {
+    .home-content_2 {
+        margin-top: 7rem;
+    }
     .supervisao {
         width: 43rem;
     }
