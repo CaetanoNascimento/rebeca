@@ -1860,7 +1860,7 @@ footer .copyright {
         text-align: center;
         font-size: 1.8rem;
         font-weight: 400;
-        width: 37rem;
+        width: 35rem;
     }
 
     .text_color3 {
@@ -2023,6 +2023,31 @@ footer .copyright {
         margin-top: 39rem;
     }
 
+    .prin_h1 {
+        font-size: 2.5rem;
+        margin-left: 1rem;
+    }
+    .home_rebeca {
+        font-family: "Outfit";
+        font-weight: 300;
+        color: var(--text-color2);
+        font-size: 6rem;
+        margin-left: 1rem;
+    }
+    .beca {
+        margin-left: 1rem;
+    }
+    .line {
+        margin-top: -1.7rem;
+        margin-left: 14rem;
+        margin-right: 14rem;
+    }
+
+    .home-content_2 {
+        margin-top: 3rem;
+    }
+
+
     .home-img img {
         width: 73vw;
         position: relative;
@@ -2057,7 +2082,7 @@ footer .copyright {
         font-size: 1.8rem;
         font-weight: 400;
         text-align: center;
-        width: 34rem;
+        width: 31rem;
         margin-left: 6rem;
     }
 
@@ -2066,20 +2091,61 @@ footer .copyright {
         margin-top: 1rem;
         width: 60vw;
     }
+    .oque_dizem {
+        margin-left: 4rem;
+        margin-top: -41rem;
+    }
+    .line2 {
+        border-bottom: 3px solid;
+        display: flex
+;
+        margin-top: -1.6rem;
+        margin-left: 20rem;
+        margin-right: 19rem;
+    }
+    .balao {
+        margin-left: 9rem;
+        margin-top: 1rem;
+        width: 60vw;
+    }
 
     .img3 {
         top: 81rem;
-        left: 17rem;
+        left: 15.5rem;
         position: relative;
     }
+    .text_footer {
+        font-size: 1.6rem;
+        font-weight: 700;
+        color: #FFFFFF;
+        width: 35rem;
+        text-align: center;
+        margin-left: 4rem;
+        display: flex
+;
+    }
+    .text_color2 {
+        font-size: 1.8rem;
+        margin-right: 5rem;
+        font-weight: 400;
+        margin-bottom: 3rem;
+        margin-left: 3rem;
+    }
+    .home-content_2 p {
+        text-align: center;
+        font-size: 1.8rem;
+        font-weight: 400;
+        width: 32rem;
+    }
+
 
     .texto7 {
         font-family: "Playfair Display", serif;
         font-size: 2.5rem;
         font-weight: 400;
         text-align: center;
-        margin-left: 5rem;
-        font-size: 2rem;
+        margin-left: 3rem;
+        font-size: 1.8rem;
         width: 35rem;
     }
 
