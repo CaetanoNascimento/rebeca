@@ -106,8 +106,7 @@ section {
 
 .line {
     border-bottom: 3px solid;
-    display: flex
-;
+    display: flex;
     margin-top: -2.6rem;
     margin-left: 21rem;
     margin-right: 14rem;
@@ -290,9 +289,11 @@ span {
     padding-bottom: 2rem;
     padding-top: 1rem;
 }
-.prin_h1{
+
+.prin_h1 {
     font-size: 3.2rem;
 }
+
 .home_rebeca {
     font-family: "Outfit";
     font-weight: 300;
@@ -466,7 +467,7 @@ span {
 }
 
 .supervisao {
-    
+
     margin-top: 6rem;
     border-radius: 10px;
     background-color: #ffff;
@@ -1192,7 +1193,7 @@ footer .copyright {
     }
 
     .content_span {
-        margin-left: -1rem;
+        margin-left: -25rem;
         margin-top: 23rem;
     }
 
@@ -1531,7 +1532,7 @@ footer .copyright {
     .barra {
         padding-left: 2rem;
         font-size: 1.2rem;
-        
+
     }
 
     .barra2 {
@@ -1557,9 +1558,10 @@ footer .copyright {
 }
 
 @media (max-width:995px) {
-    .supervisao{
+    .supervisao {
         width: 43rem;
     }
+
     .text_color5 {
         font-size: 2.0rem;
         width: 37rem;
@@ -1645,6 +1647,11 @@ footer .copyright {
         position: relative;
         top: 0rem;
     }
+    
+    .content_span {
+        margin-left: -1rem;
+        margin-top: -1rem;
+    }
 
     .balao {
         margin-left: 10rem;
@@ -1658,14 +1665,14 @@ footer .copyright {
         position: relative;
 
     }
-    .line3{
+
+    .line3 {
         border-bottom: 3px solid;
-        display: flex
-;
+        display: flex;
         margin-top: -1.6rem;
         margin-left: 17rem;
         margin-right: 19rem;
-    
+
 
     }
 
@@ -1707,15 +1714,13 @@ footer .copyright {
     }
 
     .texto7 {
-
         font-family: "Playfair Display", serif;
         font-size: 2.5rem;
         font-weight: 400;
         text-align: center;
         margin-left: 4rem;
-        font-size: 2rem;
-        width: 35rem;
-
+        font-size: 1.8rem;
+        width: 33rem;
 
 
     }
@@ -1887,6 +1892,7 @@ footer .copyright {
         width: 34rem;
         margin-left: 1rem;
     }
+
     .phink {
         margin-top: 8rem;
         margin-left: 11rem;
@@ -1904,10 +1910,10 @@ footer .copyright {
     .texto3 {
         width: 31rem;
     }
+
     .home_rebeca_2 {
         color: #177A28;
-        display: flex
-;
+        display: flex;
         margin-top: -1rem;
         font-size: 5.5rem;
         margin-left: 0rem;
@@ -1923,21 +1929,25 @@ footer .copyright {
         font-size: 2.6rem;
         font-weight: 700;
         text-align: center;
-        display: flex
-;
+        display: flex;
         margin-top: -17rem;
         margin-bottom: 1rem;
         width: 41rem;
     }
 
     .home3 {
-        margin-top: 12rem;
+        margin-top: 19rem;
+    }
+
+    .balao {
+        margin-left: 8rem;
+        margin-top: 1rem;
+        width: 60vw;
     }
 
     .home_rebeca_5 {
         color: #177A28;
-        display: flex
-;
+        display: flex;
         margin-top: 0rem;
         font-size: 6rem;
         font-weight: 600;
@@ -1951,9 +1961,8 @@ footer .copyright {
         width: 35rem;
 
         text-align: center;
-        margin-left: 5rem;
-        display: flex
-;
+        margin-left: 1rem;
+        display: flex;
     }
 
     .img_book {
@@ -1967,47 +1976,53 @@ footer .copyright {
         font-weight: 400;
         text-align: center;
         width: 33rem;
-        margin-left: 3rem;
+        margin-left: 1rem;
         margin-top: 17rem;
     }
+
     .text_color5 {
         font-size: 1.8rem;
-        width: 33rem;
+        width: 35rem;
         text-align: center;
         margin-top: 3rem;
         margin-bottom: 3rem;
         font-weight: 900;
-        display: flex
-;
+        display: flex;
+        margin-left: 0rem;
+    
     }
+
     .botao_final {
         background-color: var(--text-color2);
         width: 23rem;
         height: 6rem;
         border-radius: 1rem;
         color: #ffff;
-        margin-left: 8rem;
+        margin-left: 6rem;
     }
 
 
     .porque_fazer {
         margin-left: 4rem;
     }
+
     .home-content h3 {
         font-size: 5rem;
         margin-bottom: 1rem;
         margin-left: 4rem;
     }
-    .beca{
+
+    .beca {
         margin-left: 3rem;
     }
 
 }
 
-@media(max-height:720px){
+@media(max-height:720px) {
     .text_p {
         margin-top: 39rem;
     }
+
     .home-img img {
         width: 73vw;
         position: relative;
@@ -2018,6 +2033,7 @@ footer .copyright {
         margin-top: 11rem;
         width: 40vw;
     }
+
     .texto8 {
         font-family: "Playfair Display", serif;
         font-size: 1.4rem;
@@ -2027,12 +2043,15 @@ footer .copyright {
         margin-left: 2rem;
         margin-top: 21rem;
     }
-    .text_2{
+
+    .text_2 {
         margin-top: 2rem;
     }
-    .text_3{
+
+    .text_3 {
         margin-top: 2rem;
     }
+
     .texto {
         font-family: "Playfair Display", serif;
         font-size: 1.8rem;
@@ -2041,16 +2060,19 @@ footer .copyright {
         width: 34rem;
         margin-left: 6rem;
     }
+
     .balao {
         margin-left: 11rem;
         margin-top: 1rem;
         width: 60vw;
     }
+
     .img3 {
         top: 81rem;
         left: 17rem;
         position: relative;
     }
+
     .texto7 {
         font-family: "Playfair Display", serif;
         font-size: 2.5rem;
@@ -2060,34 +2082,39 @@ footer .copyright {
         font-size: 2rem;
         width: 35rem;
     }
+
     .text_desenvolver {
 
-            font-size: 2.6rem;
-            font-weight: 700;
-            text-align: center;
-            display: flex
-    ;
-            margin-top: -17rem;
-            margin-bottom: 1rem;
-            width: 38rem;
-            margin-left: 3rem;
-        
+        font-size: 2.6rem;
+        font-weight: 700;
+        text-align: center;
+        display: flex;
+        margin-top: -17rem;
+        margin-bottom: 1rem;
+        width: 38rem;
+        margin-left: 3rem;
+
     }
+
     .terapia {
         color: #177A28;
         font-size: 2rem;
         width: 39rem;
         margin-left: 3rem;
     }
+
     .caminho {
         margin-top: -8rem;
     }
+
     .barra {
         width: 42.5rem;
     }
-    .barra2{
+
+    .barra2 {
         width: 42.5rem;
     }
+
     .supervisao {
         width: 42rem;
     }
